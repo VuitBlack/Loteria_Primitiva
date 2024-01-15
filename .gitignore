@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+
+#Synology
 *.DS_Store
 
 # Log file
